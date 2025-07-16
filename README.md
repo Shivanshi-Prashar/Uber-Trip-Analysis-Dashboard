@@ -1,6 +1,6 @@
 # 🚖 Uber-Trip-Analysis-Dashboard
 
-#### **1. Project Title / Headline**
+#### **1. Uber Trip Analysis Dashboard- POWERBI**
 
 **Uber Trip Analysis: City-wise Trip Metrics & Booking Insights**
 
@@ -40,7 +40,7 @@ This dataset contains Uber trip details including:
 
 #### **5. Features / Highlights**
 
-**📌 Best structure to explain the dashboard:**
+** Best structure to explain the dashboard:**
 
 * **Business Problem:**
   Urban ride services generate massive data. However, insights around time-based demand, city zones, payment methods, and trip patterns remain underutilized by ride-share companies and city planners.
@@ -66,7 +66,7 @@ Perfect! Here's the updated **Section 6: Screenshots / Demos** with your actual 
 
 
 #### **6. Screenshots / Demos**
-Show what the dashboard looks like:
+The dashboard looks like:
 
 Overview Analysis
 
