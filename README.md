@@ -1,8 +1,7 @@
 # 🚖 Uber-Trip-Analysis-Dashboard
 
-#### **1. Uber Trip Analysis Dashboard- POWERBI**
+#### **1. Uber Trip Analysis: City-wise Trip Metrics & Booking Insights**
 
-**Uber Trip Analysis: City-wise Trip Metrics & Booking Insights**
 
 An interactive Power BI dashboard to analyze Uber trip data focusing on booking patterns, trip distance, payment types, vehicle usage, and city-level insights.
 
