@@ -40,8 +40,6 @@ This dataset contains Uber trip details including:
 
 #### **5. Features / Highlights**
 
-** Best structure to explain the dashboard:**
-
 * **Business Problem:**
   Urban ride services generate massive data. However, insights around time-based demand, city zones, payment methods, and trip patterns remain underutilized by ride-share companies and city planners.
 
