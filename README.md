@@ -2,7 +2,6 @@
 
 ### 🚖 **Uber Trip Analysis Dashboard**
 
----
 
 #### **1. Project Title / Headline**
 
@@ -10,13 +9,11 @@
 
 An interactive Power BI dashboard to analyze Uber trip data focusing on booking patterns, trip distance, payment types, vehicle usage, and city-level insights.
 
----
 
 #### **2. Short Description / Purpose**
 
 The Uber Trip Analysis Dashboard is a powerful analytical tool built in Power BI to visualize and compare trip data across various cities. It helps users identify booking trends, vehicle preferences, and time-based booking patterns to optimize operational strategies.
 
----
 
 #### **3. Tech Stack**
 
@@ -28,7 +25,6 @@ The dashboard was built using the following tools and technologies:
 * 🔗 **Data Modeling** – Built relationships between trips, vehicles, payment methods, and timestamps for smooth filtering
 * 💾 **File Format** – `.pbix` for development; exported to `.png` for sharing and documentation
 
----
 
 #### **4. Data Source**
 
@@ -45,7 +41,6 @@ This dataset contains Uber trip details including:
 * Pickup/drop-off locations
 * Aggregated metrics like total bookings and average trip time/distance
 
----
 
 #### **5. Features / Highlights**
 
