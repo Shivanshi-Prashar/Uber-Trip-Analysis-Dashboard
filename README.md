@@ -1,6 +1,4 @@
-# Uber-Trip-Analysis-Dashboard
-
-### 🚖 **Uber Trip Analysis Dashboard**
+# 🚖 Uber-Trip-Analysis-Dashboard
 
 
 #### **1. Project Title / Headline**
@@ -65,5 +63,22 @@ This dataset contains Uber trip details including:
   * Most frequent pickup: **Penn Station/Madison Sq West**
     Most frequent drop-off: **Upper East Side North**
   * Longest trip covered: **144.1 miles** (Lower East Side → Crown Heights North)
+Perfect! Here's the updated **Section 6: Screenshots / Demos** with your actual GitHub image links substituted:
+
+
+### **6. Screenshots / Demos**
+
+Show what the dashboard looks like.
+
+```markdown
+![Overview Analysis](https://github.com/Shivanshi-Prashar/Uber-Trip-Analysis-Dashboard/blob/main/Snapshot-%20Overview%20Analysis.png)  
+*Figure 1: Overview of total bookings, trip distance, revenue, and vehicle/payment breakdowns*
+
+![Time Analysis](https://github.com/Shivanshi-Prashar/Uber-Trip-Analysis-Dashboard/blob/main/Snapshot-%20Time%20Analysis.png)  
+*Figure 2: Time-based analysis including peak hours, weekdays, and heatmaps*
+
+![Trip Details Table](https://github.com/Shivanshi-Prashar/Uber-Trip-Analysis-Dashboard/blob/main/Snapshot-%20Details.png)  
+*Figure 3: Detailed trip-level data with pickup time, vehicle type, distance, value, and location*
+
 
 
