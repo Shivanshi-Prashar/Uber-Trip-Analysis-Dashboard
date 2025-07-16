@@ -20,7 +20,7 @@ The Uber Trip Analysis Dashboard is a powerful analytical tool built in Power BI
 The dashboard was built using the following tools and technologies:
 
 * 🧩 **Power BI Desktop** – Main data visualization tool for dashboard development
-* 🛠️ **Power Query** – For data transformation and cleaning (e.g., date formatting, data reshaping)
+* 🛠️ **Power Query** – For data transformation and cleaning (e.g., date formatting, data preprocessing)
 * 🧠 **DAX (Data Analysis Expressions)** – For dynamic measures such as total bookings, revenue, trip time, and distances
 * 🔗 **Data Modeling** – Built relationships between trips, vehicles, payment methods, and timestamps for smooth filtering
 * 💾 **File Format** – `.pbix` for development; exported to `.png` for sharing and documentation
@@ -28,7 +28,7 @@ The dashboard was built using the following tools and technologies:
 
 #### **4. Data Source**
 
-**Source:** Synthetic Uber trip data for June 2024 (sample dataset).
+**Source:** Uber trip data for June 2024.
 
 This dataset contains Uber trip details including:
 
@@ -39,7 +39,6 @@ This dataset contains Uber trip details including:
 * Booking value
 * Payment type
 * Pickup/drop-off locations
-* Aggregated metrics like total bookings and average trip time/distance
 
 
 #### **5. Features / Highlights**
@@ -67,6 +66,4 @@ This dataset contains Uber trip details including:
     Most frequent drop-off: **Upper East Side North**
   * Longest trip covered: **144.1 miles** (Lower East Side → Crown Heights North)
 
----
 
-Let me know if you'd like a downloadable PDF version of this write-up or if you want this formatted for LinkedIn, presentation, or a resume portfolio.
