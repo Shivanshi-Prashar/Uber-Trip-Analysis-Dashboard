@@ -78,12 +78,13 @@ Time Analysis
 
 🔗 Link: https://github.com/Shivanshi-Prashar/Uber-Trip-Analysis-Dashboard/blob/main/Snapshot-%20Time%20Analysis.png
 
-
       * Figure 2: Time-based analysis including peak hours, weekdays, and heatmaps
 
 Trip Details Table
 
 🔗 Link: https://github.com/Shivanshi-Prashar/Uber-Trip-Analysis-Dashboard/blob/main/Snapshot-%20Details.png
+
+
      * Figure 3: Detailed trip-level data with pickup time, vehicle type, distance, value, and location
 
 
