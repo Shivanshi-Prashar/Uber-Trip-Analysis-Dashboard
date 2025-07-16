@@ -65,7 +65,7 @@ This dataset contains Uber trip details including:
 Perfect! Here's the updated **Section 6: Screenshots / Demos** with your actual GitHub image links substituted:
 
 
-#### **Screenshots / Demos**
+#### **6. Screenshots / Demos**
 Show what the dashboard looks like:
 
 Overview Analysis
