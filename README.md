@@ -1,4 +1,4 @@
-# 🚖 Uber-Trip-Analysis-Dashboard
+# 🚖 Uber Trip Analysis Dashboard
 
 #### **1. Uber Trip Analysis: City-wise Trip Metrics & Booking Insights**
 
