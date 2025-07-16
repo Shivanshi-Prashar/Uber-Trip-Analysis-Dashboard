@@ -71,11 +71,14 @@ Show what the dashboard looks like:
 Overview Analysis
 
 🔗 Link: https://github.com/Shivanshi-Prashar/Uber-Trip-Analysis-Dashboard/blob/main/Snapshot-%20Overview%20Analysis.png
+
        * Figure 1: Overview of total bookings, trip distance, revenue, and vehicle/payment breakdowns
 
 Time Analysis
 
 🔗 Link: https://github.com/Shivanshi-Prashar/Uber-Trip-Analysis-Dashboard/blob/main/Snapshot-%20Time%20Analysis.png
+
+
       * Figure 2: Time-based analysis including peak hours, weekdays, and heatmaps
 
 Trip Details Table
