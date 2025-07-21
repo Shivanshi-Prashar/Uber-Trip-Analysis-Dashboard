@@ -15,11 +15,11 @@ The Uber Trip Analysis Dashboard is a powerful analytical tool built in Power BI
 
 The dashboard was built using the following tools and technologies:
 
-* **Power BI Desktop** – Main data visualization tool for dashboard development
-* **Power Query** – For data transformation and cleaning (e.g., date formatting, data preprocessing)
-* **DAX (Data Analysis Expressions)** – For dynamic measures such as total bookings, revenue, trip time, and distances
-* **Data Modeling** – Built relationships between trips, vehicles, payment methods, and timestamps for smooth filtering
-* **File Format** – `.pbix` for development; exported to `.png` for sharing and documentation
+* 🧩 **Power BI Desktop** – Main data visualization tool for dashboard development
+* 🛠️ **Power Query** – For data transformation and cleaning (e.g., date formatting, data preprocessing)
+* 🧠 **DAX (Data Analysis Expressions)** – For dynamic measures such as total bookings, revenue, trip time, and distances
+* 🔗 **Data Modeling** – Built relationships between trips, vehicles, payment methods, and timestamps for smooth filtering
+* 💾 **File Format** – `.pbix` for development; exported to `.png` for sharing and documentation
 
 
 #### **4. Data Source**
