@@ -48,8 +48,6 @@ This dataset contains Uber trip details including:
 * **Walkthrough of Key Visuals:**
 
   * **Overview Analysis Page:** Shows summary KPIs like Total Bookings (103.7K), Total Revenue (\$1.6M), Avg Booking Value (\$15), Avg Distance (3 miles), and Avg Time (16 min). Includes breakdowns by payment types, trip times (day/night), and vehicle types.
-  * **Time Analysis Page:** Displays total bookings by pickup time, day of the week, and hour-wise heatmaps. Shows when demand peaks during the day.
-  * **Details Page:** Provides a tabular view of each trip with filters for city and date. Useful for detailed inspection and audits.
 
 * **Business Impact & Insights:**
 
@@ -70,19 +68,7 @@ The dashboard looks like:
 🔗 [Click to view](https://raw.githubusercontent.com/Shivanshi-Prashar/Uber-Trip-Analysis-Dashboard/main/Snapshot-%20Overview%20Analysis.png)
 *Figure 1: Overview of total bookings, trip distance, revenue, and vehicle/payment breakdowns*
 
----
 
-**Time Analysis**
-![Time Analysis](https://raw.githubusercontent.com/Shivanshi-Prashar/Uber-Trip-Analysis-Dashboard/main/Snapshot-%20Time%20Analysis.png)
-🔗 [Click to view](https://raw.githubusercontent.com/Shivanshi-Prashar/Uber-Trip-Analysis-Dashboard/main/Snapshot-%20Time%20Analysis.png)
-*Figure 2: Time-based analysis including peak hours, weekdays, and heatmaps*
-
----
-
-**Trip Details Table**
-![Trip Details](https://raw.githubusercontent.com/Shivanshi-Prashar/Uber-Trip-Analysis-Dashboard/main/Snapshot-%20Details.png)
-🔗 [Click to view](https://raw.githubusercontent.com/Shivanshi-Prashar/Uber-Trip-Analysis-Dashboard/main/Snapshot-%20Details.png)
-*Figure 3: Detailed trip-level data with pickup time, vehicle type, distance, value, and location*
 
 
 
